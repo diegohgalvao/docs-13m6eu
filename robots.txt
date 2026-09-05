@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://diegohgalvao.github.io/docs-13m6eu/sitemap.xml
